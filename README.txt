@@ -1,3 +1,3 @@
-# Welcome to my github 😀
+Welcome to my github 😀
 
 I’m Tiago, a undergraduated student @ FCUP.
