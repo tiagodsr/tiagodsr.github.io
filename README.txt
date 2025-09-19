@@ -1,3 +1,4 @@
 Welcome to my github 😀
 
-I’m Tiago, a undergraduated student @ FCUP.
+I’m Tiago, a Data Engineer.
+
