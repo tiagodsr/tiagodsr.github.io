@@ -1,5 +1,5 @@
 Welcome to my github 😀
 
-I’m Tiago, a AI Engineer.
+I’m Tiago, an AI Engineer.
 
 
